@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 I'm currently a Software Engineering student, passionate about learning and improving my coding skills. My goal is to become a professional developer and build useful, high-quality software products in the future<br>💡 Love exploring web technologies<br>📚 Always learning something new
+🎓 I'm currently a Software Engineering graduate, passionate about learning and improving my coding skills. My goal is to become a professional developer and build useful, high-quality software products in the future<br>💡 Love exploring web technologies<br>📚 Always learning something new
 
 
 ## 🌐 Socials:
