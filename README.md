@@ -1,7 +1,3 @@
-# 💫 About Me:
-🎓 I'm currently a Software Engineering graduate, passionate about learning and improving my coding skills. My goal is to become a professional developer and build useful, high-quality software products in the future<br>💡 Love exploring web technologies<br>📚 Always learning something new
-
-
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/hung.tuan.959992) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/tuan-hung-7008322a9/) 
 
